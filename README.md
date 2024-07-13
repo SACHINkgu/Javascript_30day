@@ -17,7 +17,7 @@
 ### Activity 4: Reassigning Variables
 - **Task 5**: Declare a variable using `let`, assign it an initial value, reassign a new value, and log both values to the console.
 
-### Activity 5: Understanding `sanat`
+### Activity 5: Understanding `const`
 - **Task 6**: Try reassigning a variable declared with `const` and observe the error.
 
 ## Feature Requests:
