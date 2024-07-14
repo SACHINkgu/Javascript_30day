@@ -12,4 +12,4 @@ if(a>b){
 else{
     console.log(`${a} is smaller than ${b}`);
     //console.log("a is smaller than b is : ",b);
-}
+ }
